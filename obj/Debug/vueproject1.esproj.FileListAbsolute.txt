@@ -1,0 +1,2 @@
+D:\桌面\TS-study\vueproject1\obj\Debug\vueproject1.esproj.SuggestedBindingRedirects.cache
+D:\桌面\TS-study\vueproject1\obj\Debug\vueproject1.esproj.CoreCompileInputs.cache
